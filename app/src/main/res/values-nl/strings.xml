@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zoomed</string>
+    <string name="sigin">Aanmelden</string>
+    <string name="singup">Aanmelden</string>
+    <string name="title_activity_maps">Kaart</string>
+    <string name="account">Account</string>
+    <string name="settings">" Instellingen"</string>
+    <string name="command">Commando\'s</string>
+</resources>
