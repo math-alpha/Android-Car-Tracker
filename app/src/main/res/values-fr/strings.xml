@@ -7,4 +7,8 @@
     <string name="account">Compte</string>
     <string name="settings">Réglages</string>
     <string name="command">Les commandes</string>
+    <string name="invalid_password">Votre mot de passe doit avoir >5 charactères</string>
+    <string name="prompt_email">Addresse mail</string>
+    <string name="prompt_password">Mot de passe</string>
+    <string name="action_sign_in_short">Se connecter</string>
 </resources>
