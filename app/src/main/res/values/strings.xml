@@ -6,4 +6,6 @@
     <string name="account">Account</string>
     <string name="settings">Settings</string>
     <string name="command">Commands</string>
+    <string name="title_activity_btm_">btm_Activity</string>
+    <string name="title_home">Zoomed</string>
 </resources>
