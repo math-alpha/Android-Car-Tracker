@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zoomed</string>
+    <string name="title_accounts">x</string>
+    <string name="title_commands">x</string>
+    <string name="title_home">x</string>
+    <string name="title_map">x</string>
+    <string name="title_setting">x</string>
+    <string name="d1">x</string>
+    <string name="d2">x</string>
+    <string name="d3">x</string>
+    <string name="d11">x</string>
+    <string name="d22">x</string>
+    <string name="d33">x</string>
+    <string name="action_sign_in">x</string>
+    <string name="action_sign_in_short">x</string>
+    <string name="hello_blank_fragment">x</string>
+    <string name="invalid_username">x</string>
+    <string name="invalid_password">x</string>
+    <string name="login_failed">x</string>
+    <string name="prompt_email">x</string>
+    <string name="prompt_password">x</string>
+    <string name="title_activity_login">x</string>
+    <string name="welcome">xx</string>
+</resources>
