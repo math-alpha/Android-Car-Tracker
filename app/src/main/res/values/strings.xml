@@ -23,4 +23,52 @@
     <string name="invalid_username">Not a valid username</string>
     <string name="invalid_password">Password must be >5 characters</string>
     <string name="login_failed">"Login failed"</string>
+
+    <string name="id_buttion13">"WHERE IS MY CAR"</string>
+    <string name="id_buttion14">"CONTINOUS LOCATE"</string>
+    <string name="id_buttion2">"CANCEL CONTINOUS LOCATE"</string>
+    <string name="id_buttion1">"SPEED ALERTS"</string>
+    <string name="id_buttion4">"NO SPEED ALERTS"</string>
+    <string name="id_buttion3">"IGNITION ALERTS"</string>
+    <string name="id_buttion6">"CANCEL IGNITION ALERTS"</string>
+    <string name="id_buttion5">"IMMOBILIZE ENGINE"</string>
+    <string name="id_buttion8">"ACTIVATE ENGINE"</string>
+    <string name="id_buttion7">"IMMOBILIZE ENGINE 2"</string>
+    <string name="id_buttion10">"ACTIVATE ENGINE 2"</string>
+    <string name="id_buttion9">"VOICE SURVEILLANCE"</string>
+    <string name="id_buttion12">"TWO WAY CALLING"</string>
+    <string name="id_buttion11">"SMS MODE"</string>
+
+    <string name="id_buttion19_g2">"WHERE IS MY CAR"</string>
+    <string name="id_buttion20_g2">"IGNITION ALERTS"</string>
+    <string name="id_buttion17_g2">"CANCEL IGNITION ALERTS"</string>
+    <string name="id_buttion18_g2">"IMMOBILIZE ENGINE"</string>
+    <string name="id_buttion15_g2">"ACTIVATE ENGINE"</string>
+    <string name="id_buttion16_g2">"CANCEL SOS ALERT"</string>
+    <string name="id_buttion13_g2">"SHOCK ALERT"</string>
+    <string name="id_buttion14_g2">"CANCEL SHOCK SLERT"</string>
+    <string name="id_buttion2_g2">"SPEED ALERT"</string>
+    <string name="id_buttion1_g2">"NO SPEED ALERT"</string>
+    <string name="id_buttion4_g2">"SENSORS ALERTS"</string>
+    <string name="id_buttion3_g2">"CANCEL SENSORS ALERTS"</string>
+    <string name="id_buttion6_g2">"ADD USER"</string>
+    <string name="id_buttion5_g2">"REMOVE USER"</string>
+    <string name="id_buttion8_g2">"CALLING MODE"</string>
+    <string name="id_buttion7_g2">"SMS MODE"</string>
+    <string name="id_buttion10_g2">"SET GEO FENCE"</string>
+    <string name="id_buttion9_g2">"CANCEL GEOFENCE"</string>
+    <string name="id_buttion12_g2">"TIME ZONE"</string>
+
+    <string name="id_buttion2_g4">"WHERE IS MY CAR"</string>
+    <string name="id_buttion1_g4">"CONTINIOUS LOCATE"</string>
+    <string name="id_buttion4_g4">"CANCEL CONTINOUS LOCATE"</string>
+    <string name="id_buttion3_g4">"GPRS Interval"</string>
+    <string name="id_buttion6_g4">"Check GPRS Interval"</string>
+    <string name="id_buttion5_g4">"IMMOBILIZE ENGINE"</string>
+    <string name="id_buttion8_g4">"ACTIVATE ENGINE"</string>
+    <string name="id_buttion7_g4">"SPEED ALERT"</string>
+    <string name="id_buttion10_g4">"NO SPEED ALERT"</string>
+    <string name="id_buttion9_g4">"ADD USER SOS"</string>
+    <string name="id_buttion12_g4">"ADD USER MONITORING"</string>
+    <string name="id_buttion11_g4">"TIME ZONE"</string>
 </resources>
